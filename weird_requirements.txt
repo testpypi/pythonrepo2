@@ -1,0 +1,3 @@
+requests==2.20
+pytorch>=1.0
+thispackagedoesntexittest==1.0
